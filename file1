@@ -1,3 +1,5 @@
 int a,b
 a=b;
 c=d;
+c=a+b
+this is sample proj.
